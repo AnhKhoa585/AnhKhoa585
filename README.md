@@ -1,5 +1,5 @@
 🤌About me:
-- 🤓Name: Dinh Duc Anh Khoa
+- 🤓Name: Dinh Duc Anh Khoa (moduloByZero)
 - 🎓Bachelor's student in Artificial Intelligence - K23 FIT.HCMUS
 - 💻Programing language:
 <code><img src="icon/c-plus-plus.png" width="30"/></code>
