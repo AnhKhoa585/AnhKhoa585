@@ -3,8 +3,8 @@
 - 🎓Bachelor's student in Artificial Intelligence - K23 FIT.HCMUS
 - 💻Programing language:
 <code><img src="icon/cIcon.png" width="30"/></code>
-<code><img src="icon/cPlusPlusIcon.png" width="30"/></code>
-<code><img src="icon/pythonIcon.png" width="30"/></code>
+<code><img src="icon/cPluPlusIcon.png" width="30"/></code>
+<code><img src="icon/pythonIcon.webp" width="30"/></code>
 <code><img src="icon/javaIcon.png" width="30"/></code>
 - ⚙️Tools:
 <code><img src="icon/latex.png" width="30"/></code>
