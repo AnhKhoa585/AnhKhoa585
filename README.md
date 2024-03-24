@@ -7,6 +7,7 @@
 <code><img src="icon/java-512.png" width="30"/></code>
 - ⚙️Tools:
 <code><img src="icon/latex.png" width="30"/></code>
+<code><img src="icon/vscodeIcon.png" width="30"/></code>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKhoa585&layout=compact)
 ---
