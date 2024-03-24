@@ -15,7 +15,7 @@
 
 <a href="https://github.com/AnhKhoa585/caroGame-FIT.HCMUS/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhKhoa585&repo=caroGame-FIT.HCMUS&theme=radical" />
-</a>   
+</a>  
 <a href="https://github.com/AnhKhoa585/Intro2AI_LabPJ2/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhKhoa585&repo=Intro2AI_LabPJ2&theme=merko" />
 </a>   
