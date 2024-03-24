@@ -12,5 +12,11 @@
 <code><img src="icon/vscodeIcon.png" width="30"/></code>
 ---
 ![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnhKhoa585&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+<a href="[https://github.com/uvipen/QuickDraw/](https://github.com/AnhKhoa585/caroGame-FIT.HCMUS-PJ/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhKhoa585&repo=caroGame-FIT.HCMUS-PJ&theme=radical" />
+</a>   
+<a href="[https://github.com/uvipen/QuickDraw/](https://github.com/AnhKhoa585/Intro2AI_LabPJ2)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhKhoa585&repo=Intro2AI_LabPJ2&theme=merko" />
+</a>   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKhoa585&layout=compact)
