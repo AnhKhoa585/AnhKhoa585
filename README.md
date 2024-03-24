@@ -14,5 +14,3 @@
 ![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnhKhoa585&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKhoa585&layout=compact)
----
-Feel free to explore my GitHub repositories to see my projects and contributions!
