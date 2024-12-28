@@ -2,7 +2,7 @@
 🤌About me:
 - 🤓Name: Dinh Duc Anh Khoa (moduloByZero)
 - 🎓BCs student in Artificial Intelligence - K23 FIT.HCMUS
-- 💻Programing languages:
+- 💻Languages:
 <code><img src="icon/cIcon.png" width="30"/></code>
 <code><img src="icon/cPlusPlusIcon.png" width="30"/></code>
 <code><img src="icon/pythonIcon.webp" width="30"/></code>
