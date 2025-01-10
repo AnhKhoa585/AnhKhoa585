@@ -14,4 +14,4 @@
 </p>
 
 ## ✨ GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKhoa585&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKhoa585&layout=donut)
