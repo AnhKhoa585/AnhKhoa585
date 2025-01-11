@@ -1,6 +1,6 @@
 ## Welcom to my page👋 I am Khoa aka modulobyZero (or Khoa%zero).
 🎓 I am a BCs student in Artificial Intelligence - K23 FIT.HCMUS.
-🔭 I am interested in the following topics: Machine learning, deep learning in NLP, reinforcement learning and front-end development.
+🔭 I am interested in the following topics: Machine learning, deep learning, reinforcement learning and front-end development.
 
 ## 💻Languages and tools
 <p align="center">
@@ -15,3 +15,8 @@
 
 ## ✨ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhKhoa585&layout=donut)
+
+## 🔗 Repositories
+<a href="https://github.com/AnhKhoa585/self-driving-car">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnhKhoa585&repo=self-driving-car&theme=radical" />
+</a>
