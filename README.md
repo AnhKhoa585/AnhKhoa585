@@ -1,6 +1,6 @@
 ## Welcom to my page👋 I am Khoa aka modulobyZero.
 🎓 I am a BCs student in Artificial Intelligence - K23 FIT.HCMUS.
-🔭 I am interested in the following topics: Machine learning, deep learning, reinforcement learning and front-end development.
+🔭 I am interested in the following topics: Machine learning, deep learning, reinforcement learning and deep learning in NLP.
 
 ## 💻Languages and tools
 <p align="center">
